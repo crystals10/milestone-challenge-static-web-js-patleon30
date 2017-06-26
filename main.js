@@ -23,13 +23,10 @@ characterInput.addEventListener ("keyup", function(){
 })
 
 function growTree (num, char){
-var Leaves = " ";
+var Leaves = "";
 	for (var i = 0; i < num; i++) {
 		Leaves +=char 
 	console.log(Leaves)
-
-
-
 
 }
 }
